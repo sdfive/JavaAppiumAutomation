@@ -6,4 +6,3 @@ public class MainClass {
         return class_number;
     }
 }
-//second
